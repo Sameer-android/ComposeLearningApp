@@ -37,7 +37,7 @@ fun SignUpScreen() {
         ) {
             Text(
                 text = "Sign up",
-                fontSize = 32.sp,
+                fontSize = 34.sp,
                 color = Color.DarkGray,
                 modifier = Modifier.padding(top = 80.dp)
             )
